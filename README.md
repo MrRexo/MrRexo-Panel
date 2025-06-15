@@ -1,4 +1,4 @@
-# 📊 MrRexoPanel v1.37 – Panel Handlowy dla MetaTrader 5
+# 📊 MrRexoPanel – Panel Handlowy dla MetaTrader 5
 
 ## 🛠️ Instalacja
 
