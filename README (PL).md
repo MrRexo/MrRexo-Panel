@@ -1,5 +1,5 @@
 # 📊 MrRexoPanel – Panel Handlowy dla MetaTrader 5
-
+![Screenshot](Gallery/screen.png)
 ## 🛠️ Instalacja
 
 1. Skopiuj plik `MrRexoPanel.ex5` do folderu:
