@@ -1,5 +1,7 @@
 # 📊 MrRexoPanel – Trading Panel for MetaTrader 5
 
+![Screenshot](gallery/screen.png)
+
 ## 🛠️ Installation
 
 1. Copy `MrRexoPanel.ex5` to:
