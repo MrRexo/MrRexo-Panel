@@ -1,6 +1,6 @@
 # 📊 MrRexoPanel – Trading Panel for MetaTrader 5
 
-![Screenshot](gallery/screen.png)
+![Screenshot](Gallery/screen.png)
 
 ## 🛠️ Installation
 
